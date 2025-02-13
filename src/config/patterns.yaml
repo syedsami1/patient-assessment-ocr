@@ -1,0 +1,9 @@
+patient_name: "Patient Name:\s*(.+)"
+dob: "Date of Birth:\s*(\d{1,2}/\d{1,2}/\d{4})"
+date: "Assessment Date:\s*(\d{1,2}/\d{1,2}/\d{4})"
+injection: "Injection:\s*(Yes|No)"
+exercise_therapy: "Exercise Therapy:\s*(Yes|No)"
+difficulty_ratings:
+  bending: "Bending:\s*(\d)"
+  putting_on_shoes: "Putting on Shoes:\s*(\d)"
+  sleeping: "Sleeping:\s*(\d)"

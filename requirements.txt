@@ -1,0 +1,8 @@
+easyocr==1.7.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+PyYAML==6.0.1
+pytest==7.4.4
